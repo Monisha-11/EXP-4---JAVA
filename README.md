@@ -1,4 +1,4 @@
-# EXP 04 - EVEN NUMBERS IN CERTAIN RANGE
+# EXP 03 - EVEN NUMBERS IN CERTAIN RANGE
 
 ## AIM :
 TO Write a Java program to print the even numbers between 1-20
